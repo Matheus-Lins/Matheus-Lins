@@ -1,14 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matheus Lins
-=====================================================================================================================================
+# Olá, eu sou o Matheus Lins! 👋
 
-\- 💻 Developer in training at Generation
+Desenvolvedor em formação pela **Generation Brasil**. Atualmente focado no ecossistema **JavaScript** e **TypeScript**.
 
-\- 🚀 Studying JavaScript, TypeScript
+---
 
+### 🚀 Sobre Mim
+- 🎓 Estudando Desenvolvimento Full Stack na **Generation Brasil**.
+- 🛠️ Experiência prática com **TypeScript, Node.js e POO**.
+- 🏦 Desenvolvi sistemas complexos como o **Sistema Bancário** e o **PC_CORE (E-commerce)**.
+- 🧠 Entusiasta de **Clean Code**, **Padrão Repository** e Metodologias Ágeis (**Scrum**).
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/https://github.com/Matheus-Lins" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-antonio-santos-lins-091946217/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### 📊 Estatísticas e Atividade
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lins&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📂 Projetos em Destaque
+
+#### [🛒 PC_CORE - E-commerce de Tecnologia](https://github.com/Matheus-Lins/projeto-ecommerce-typescript)
+Sistema de gestão de estoque automatizado utilizando **Classes Abstratas e Polimorfismo** para controle de Hardware e Software.
+
+#### [🏦 Sistema Bancário](https://github.com/Matheus-Lins/sistema-bancario-typescript)
+Simulador de operações financeiras robusto com lógica de **transferências entre objetos** e tratamento de saldo/limite.
+
+---
+
+### 📫 Como me encontrar
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-antonio-santos-lins-091946217" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
